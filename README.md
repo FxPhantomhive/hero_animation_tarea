@@ -1,6 +1,14 @@
-# hero_animation_tarea
+# hero animation tarea
 
-A new Flutter project.
+Proyecto de foro sobre animaciones <br>
+animacion seleccionada: <strong>Hero Animation</strong>
+
+## Integrantes:
+ARAUJO LEIVA, DAVID PORFIRIO <strong>25-4899-2017</strong><br>
+MELÉNDEZ ALFARO, FELIX IVÁN	<strong>25-5295-2017</strong><br>
+PORTILLO SALAZAR, DANIEL ALBERTO <strong>25-4871-2017</strong><br>
+VALDEZ LARIN, DIEGO ELIU<strong>25-4744-2017</strong><br>
+
 
 ## Getting Started
 
